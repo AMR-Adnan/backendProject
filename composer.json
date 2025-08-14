@@ -1,0 +1,9 @@
+{
+    "name": "ministore/e-commerce",
+    "autoload": {
+        "psr-4": {
+            "MiniStore\\": "src/"
+        }
+    },
+    "require": {}
+}
